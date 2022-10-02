@@ -1,3 +1,4 @@
-## Idea
+## Link Preview
 
-[https://uidesigndaily.com/](https://uidesigndaily.com/posts/sketch-birthdays-list-card-widget-day-1042)
+https://birthday-reminder-react-project.vercel.app/
+
