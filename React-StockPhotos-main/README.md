@@ -1,6 +1,6 @@
 # React - StockPhotos
 
-[This project](https://unsplash-gallery-project.vercel.app/) is component that lists stock photos from unsplash API. This component is build with using React.
+[This project](https://gurhanalan.github.io/React-StockPhotos/) is component that lists stock photos from unsplash API. This component is build with using React.
 
 ## Table of contents
 
@@ -21,9 +21,9 @@ Users should be able to:
 
 <!-- -   View the optimal layout for the app depending on their device's screen size -->
 
-- Get the list of photos from API call
-- Search for photos
-- Scrool down to get more photos
+-   Get the list of photos from API call
+-   Search for photos
+-   Scrool down to get more photos
 
 <!-- -   Change the position, color, shape and size of a box by click the control buttons. -->
 
@@ -37,14 +37,14 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Live Website](https://unsplash-gallery-project.vercel.app/)
+-   Solution URL: [Live Website](https://gurhanalan.github.io/React-StockPhotos/)
 
 ## My process
 
 ### Built with
 
-- React
-- Functional Components
-- CSS
-- React Hooks
-- API
+-   React
+-   Functional Components
+-   CSS
+-   React Hooks
+-   API
