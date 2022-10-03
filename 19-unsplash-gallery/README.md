@@ -1,10 +1,10 @@
-# React - StockPhotos
+# React - unsplashgallery
 
 [This project](https://unsplash-gallery-project.vercel.app/) is component that lists stock photos from unsplash API. This component is build with using React.
 
 ## Table of contents
 
-- [React - StockPhotos](#react---stockphotos)
+- [React - unsplashgallery](#react---unsplashgallery)
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
     - [The challenge](#the-challenge)
